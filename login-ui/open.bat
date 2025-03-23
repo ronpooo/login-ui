@@ -1,0 +1,3 @@
+@echo off
+echo Opening Light Dark Theme Login UI...
+start "" "%~dp0index.html" 
